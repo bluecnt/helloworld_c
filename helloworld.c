@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("HelloWorld \n");
+  printf("[한글] HelloWorld \n");
   
   return 0;
 }
